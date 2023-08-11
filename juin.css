@@ -1,0 +1,154 @@
+.ensemble{
+    height: 500px;
+    background: url(images/main-image.jpg) center bottom / cover;
+    background-position: bottom;
+}
+.nav-bar{
+    display: flex;
+    max-width: 70%;
+    margin: 0px auto;
+    padding-top: 6%; 
+}
+.nav-bar button{
+    flex: 1;
+    margin: auto;
+    text-align: center;
+    height: 35px;
+    font-weight: bold;
+    background: linear-gradient(#999999, #676767);
+    border-color: #99999952;
+    border-radius: 2px;
+    border-style: double;
+}
+.nav-bar div{
+    flex: 1;
+    margin: 0 auto;
+    text-align: center;
+    height: 35px;
+    font-weight: bold;
+    background: linear-gradient(#999999, #676767);
+    border-color:  #99999952;
+    border-style: double;
+    border-radius: 2px;
+}
+.nav-bar button:hover{
+    cursor: pointer;
+    background: pink;
+}
+.nav-bar div img{
+    position: absolute;
+    top: 111px;
+    left: 1025px;
+}
+input{
+    top: 1100px;
+}
+.nav-bar div input{
+    border-radius: 20px;
+    max-width: 75px;
+    background: linear-gradient(#999999, #676767);
+    box-shadow: inset 0 0 2px gray;
+    margin-top: 8px;
+}
+button{
+    color: white;
+}
+.apple-logo img{
+    height: 20px;
+}
+.nav-bar div input{
+    border-radius: 20px;
+    max-width: 75px;
+    background: linear-gradient(#999999, #676767);
+    margin-top: 8px;
+    box-shadow: inset 0 0 2px gray;
+}
+.nav-bar div{
+    background: linear-gradient(#999999, #676767)
+}
+.text-du-centre{
+    max-width: 50%;
+    margin: 0px auto;
+    color: white;
+}
+.images-du-bas{
+    max-width: 100px;
+    display: flex;
+    cursor: pointer;
+}
+.text-du-centre h1{
+    font-size: 25px;
+    padding-top: 20px;
+    text-align: center;
+    font-family: Quattrocento, serif;
+}
+.text-du-centre p{
+    font-size: 18px;
+    padding-top: 10px;
+    text-align: center;
+}
+.text-du-centre-dernier text{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer{
+    padding-bottom: 30px;
+}
+.first-footer img{
+    height: 20px;
+     vertical-align: middle;
+}
+.first-footer a{
+    text-decoration: none;
+    padding-right: 5px;
+    border-left: 1px solid gray;
+    padding-left: 5px;
+    color: blue;
+}
+.footer a{
+    text-decoration: none;
+    border-left: 1px solid gray;
+     padding-left: 5px;
+     padding-right: 5px;
+     color: blue;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+.first-footer.espace{
+    border-left: none;
+}
+.first-footer.resseler{
+    padding-right: 30px;
+    border-left: none;
+}
+.bas-text{
+    text-align: center;
+    font-size: 11px;
+    color: gray;
+    text-align: center;
+    padding-top: 10px;
+}
+.first-footer{
+    font-size: 11px;
+    color: gray;
+    padding-top: 20px;
+    text-align: center;
+}
+.dernier-text:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.text-du-centre .premier-text{
+    font-size: 35px;
+    padding-top: 25px;
+}
+.dernier-text img{
+    /* background-color: black; */
+    vertical-align: middle;
+    padding-left: 5px; 
+}
+
+
+
