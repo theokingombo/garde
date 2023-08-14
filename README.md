@@ -1,10 +1,10 @@
-<h1 align=center> **FRONTEND DEVELOPMENT TRAINING** </h1>
+<h1 align=center> **Exercice juin** </h1>
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![dependencies Status](https://david-dm.org/dwyl/esta/status.svg)](https://david-dm.org/dwyl/esta)
 
 
-This is a list of different project designed during my frontend development training 
+juin comment faire le flex
 
 
 
@@ -25,13 +25,13 @@ This is a list of different project designed during my frontend development trai
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/macbright/codeEdus-training.git
+$ git clone https://github.com/theokingombo/projet2.git
 ```
 
 > cd into the directory
 
 ```sh
-$ cd codeEdus-training
+$
 ```
 
 
@@ -39,7 +39,7 @@ $ cd codeEdus-training
 
 ## Maintainers 
 
-👤  **Bright Okike**
+👤  **Theo kingombo**
 
 - Github: [@tking](https://github.com/tking)
 
