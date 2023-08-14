@@ -41,9 +41,8 @@ $ cd codeEdus-training
 
 👤  **Bright Okike**
 
-- Github: [@macbright](https://github.com/macbright)
-- LinkedIn: [@bokike](https://www.linkedin.com/in/bokike/)
-- Twitter: [@b_okike](https://twitter.com/b_okike)
+- Github: [@tking](https://github.com/tking)
+
 
 
 ## Future Features
@@ -53,4 +52,4 @@ $ cd codeEdus-training
 
 ## License
 
-Bright okike
+Theo kingombo
